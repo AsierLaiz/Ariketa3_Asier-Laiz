@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "year": 2010,
+    "image": "inception.jpg",
+    "directorId": 1
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "genre": "Sci-Fi",
+    "year": 2014,
+    "image": "interstellar.jpg",
+    "directorId": 1
+  },
+  {
+    "id": 3,
+    "title": "Jurassic Park",
+    "genre": "Adventure",
+    "year": 1993,
+    "image": "jurassic.jpg",
+    "directorId": 2
+  }
+]
