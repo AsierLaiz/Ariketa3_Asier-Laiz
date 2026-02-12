@@ -1,0 +1,52 @@
+[
+  {
+    "idAuthor": 1,
+    "id": 1,
+    "izena": "Arroza",
+    "mota": "lehenego platerra",
+    "zailtasuna": "erreza",
+    "denbora": 15,
+    "osagaiak": ["arroza", "tomatea", "olioa", "gatza"],
+    "prozedura": ["jarri olioa arrozarekin", "bota ura eta egozi", "batu tomatea arrozarekin", "gehitu gatza"]
+  },
+  {
+    "idAuthor": 1,
+    "id": 2,
+    "izena": "Tortilla",
+    "mota": "bigarren platerra",
+    "zailtasuna": "normala",
+    "denbora": 20,
+    "osagaiak": ["arrautzak", "patata", "olioa", "gatza"],
+    "prozedura": ["ebaki patatak", "frijitu patatak", "irabiatu arrautzak", "nahastu eta egin tortilla"]
+  },
+  {
+    "idAuthor": 1,
+    "id": 3,
+    "izena": "Tarta",
+    "mota": "postrea",
+    "zailtasuna": "zaila",
+    "denbora": 45,
+    "osagaiak": ["irina", "azukrea", "arrautzak", "esnea", "levadura"],
+    "prozedura": ["nahastu lehengaiak", "sartu labean", "egosi 30 minutuz", "hoztu eta apaindu"]
+  },
+  {
+    "idAuthor": 2,
+    "id": 4,
+    "izena": "Entsalada",
+    "mota": "lehenego platerra",
+    "zailtasuna": "erreza",
+    "denbora": 10,
+    "osagaiak": ["letxuga", "tomatea", "tipula", "ozpin", "olioa"],
+    "prozedura": ["garbitu barazkiak", "ebaki puskatan", "gehitu ozpin eta olioa"]
+  },
+  {
+    "idAuthor": 2,
+    "id": 5,
+    "izena": "Arraina labean",
+    "mota": "bigarren platerra",
+    "zailtasuna": "normala",
+    "denbora": 25,
+    "osagaiak": ["arraina", "limoia", "berakatz", "olioa"],
+    "prozedura": ["prestatu arraina", "gehitu berakatz eta limoia", "sartu labean 180ºan", "egosi 20 minutuz"]
+  }
+]

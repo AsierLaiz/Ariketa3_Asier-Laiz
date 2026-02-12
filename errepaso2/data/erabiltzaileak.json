@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "izena": "Egoitz",
+    "pasahitza": "wec2026",
+    "hiria": "Bilbo",
+    "telefonoa": 666777888
+  },
+  {
+    "id": 2,
+    "izena": "Ane",
+    "pasahitza": "ane123",
+    "hiria": "Donostia",
+    "telefonoa": 688999111
+  },
+  {
+    "id": 3,
+    "izena": "Mikel",
+    "pasahitza": "mikel456",
+    "hiria": "Gasteiz",
+    "telefonoa": 677888999
+  }
+]

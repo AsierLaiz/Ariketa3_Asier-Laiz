@@ -1,0 +1,14 @@
+[
+  {
+    "pokemonId": 1,
+    "attacks": ["Impactrueno", "Rayo", "Ataque Rápido"]
+  },
+  {
+    "pokemonId": 2,
+    "attacks": ["Ascuas", "Lanzallamas"]
+  },
+  {
+    "pokemonId": 3,
+    "attacks": ["Látigo Cepa", "Hoja Afilada"]
+  }
+]
